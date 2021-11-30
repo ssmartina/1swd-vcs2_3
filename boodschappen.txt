@@ -7,3 +7,7 @@ water
 pindakaas
 pepernoten
 wcpapier
+zeep
+shampoo
+sprite
+cornflakes
