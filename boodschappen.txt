@@ -7,3 +7,9 @@ zeep
 shampoo
 sprite
 cornflakes
+chips
+cola
+bier
+water
+pindakaas
+pepernoten
